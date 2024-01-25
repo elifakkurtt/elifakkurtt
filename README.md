@@ -4,6 +4,9 @@
 👩🏽‍💻 I’m currently learning Flutter.  
 💼 I’m looking to collaborate on Flutter projects.  
 🚨 I’m looking for help with my problems.  
-🖥️ How to reach me: You can reach from my social media account.  
+🖥️ How to reach me: You can reach from my social media account.
+
+###My Skill Set
+![Açıklama](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png)
 
 
