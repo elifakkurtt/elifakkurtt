@@ -6,6 +6,26 @@
 🚨 I’m looking for help with my problems.  
 🖥️ How to reach me: You can reach from my social media account.  
 
+<br/>  <br>
+
+### My Skill Set  
+  <br>
+
+<div align="center">  
+
+
+
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter.png" alt="Flutter" height="80" /></a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-sharp.svg" alt="c#" height="80" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" /></a>  
+
+</div>
+  
+
+<br/>  <br>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/elifakkurtt" target="_blank">
