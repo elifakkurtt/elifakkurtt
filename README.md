@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif
 
 <!--
 **elifakkurtt/elifakkurtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
